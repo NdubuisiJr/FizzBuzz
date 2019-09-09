@@ -1,1 +1,2 @@
-I Added a new Text file to this project
+I Added a new Text file to this project.
+I modified the this text file from my Desktop computer

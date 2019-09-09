@@ -1,0 +1,6 @@
+C:\Users\EliteBook PC\Desktop\LocalRepo\PracticeRepo\FizzBuzzVS2015\FizzBuzzConsole\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe.config
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe.config
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.pdb
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.exe
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.pdb

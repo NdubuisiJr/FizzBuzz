@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzz.UnitTests\bin\Debug\FizzBuzz.UnitTests.dll
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzz.UnitTests\bin\Debug\FizzBuzz.UnitTests.pdb
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzz.UnitTests\bin\Debug\FizzBuzzConsole.exe
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzz.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzz.UnitTests\bin\Debug\FizzBuzzConsole.pdb
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzz.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzz.UnitTests\obj\Debug\FizzBuzz.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzz.UnitTests\obj\Debug\FizzBuzz.UnitTests.dll
+C:\Users\user\Desktop\LocalRepo\PracticeRepo\PracticeRepo\FizzBuzzConsole\FizzBuzz.UnitTests\obj\Debug\FizzBuzz.UnitTests.pdb
